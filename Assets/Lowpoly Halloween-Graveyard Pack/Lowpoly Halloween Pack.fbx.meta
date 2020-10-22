@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 2be424c972100a44da510f7ea8feae1f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone 2
+    100004: Broom
+    100006: Candle 1
+    100008: Candle 2
+    100010: Candy 1
+    100012: Candy 1.001
+    100014: Coffin
+    100016: Coffin Lid
+    100018: Fence
+    100020: Fence 2
+    100022: Fence 3
+    100024: Fence Post 1
+    100026: Fence Post 2
+    100028: Grave
+    100030: Graveyard Tree 1
+    100032: Graveyard Tree 2
+    100034: Graveyard tree 3
+    100036: Light Post
+    100038: //RootNode
+    100040: Mint
+    100042: Monument
+    100044: Path
+    100046: Pumpkin
+    100048: Pumpkin 2
+    100050: Pumpkin 3
+    100052: Pumpkin 3 Lid
+    100054: Pumpkin 4
+    100056: Pumpkin 4 Lid
+    100058: Pumpkin 5
+    100060: Tomb
+    100062: Tomb Lid
+    100064: Tomb Stone
+    100066: Tomb Stone 2
+    100068: Tomb Stone 3
+    100070: Tomb Stone.001
+    100072: Witch Hat
+    400000: Bone
+    400002: Bone 2
+    400004: Broom
+    400006: Candle 1
+    400008: Candle 2
+    400010: Candy 1
+    400012: Candy 1.001
+    400014: Coffin
+    400016: Coffin Lid
+    400018: Fence
+    400020: Fence 2
+    400022: Fence 3
+    400024: Fence Post 1
+    400026: Fence Post 2
+    400028: Grave
+    400030: Graveyard Tree 1
+    400032: Graveyard Tree 2
+    400034: Graveyard tree 3
+    400036: Light Post
+    400038: //RootNode
+    400040: Mint
+    400042: Monument
+    400044: Path
+    400046: Pumpkin
+    400048: Pumpkin 2
+    400050: Pumpkin 3
+    400052: Pumpkin 3 Lid
+    400054: Pumpkin 4
+    400056: Pumpkin 4 Lid
+    400058: Pumpkin 5
+    400060: Tomb
+    400062: Tomb Lid
+    400064: Tomb Stone
+    400066: Tomb Stone 2
+    400068: Tomb Stone 3
+    400070: Tomb Stone.001
+    400072: Witch Hat
+    2100000: Brown.001
+    2100002: Brown Bark
+    2100004: Grey Dark
+    2100006: Yellow
+    2100008: Black
+    2100010: Purple
+    2100012: Brown Wood
+    2100014: Straw
+    2100016: White
+    2100018: Red
+    2100020: Orange
+    2100022: Green
+    2100024: Grey Darker
+    2100026: Cream
+    2300000: Bone
+    2300002: Bone 2
+    2300004: Broom
+    2300006: Candle 1
+    2300008: Candle 2
+    2300010: Candy 1
+    2300012: Candy 1.001
+    2300014: Coffin
+    2300016: Coffin Lid
+    2300018: Fence
+    2300020: Fence 2
+    2300022: Fence 3
+    2300024: Fence Post 1
+    2300026: Fence Post 2
+    2300028: Grave
+    2300030: Graveyard Tree 1
+    2300032: Graveyard Tree 2
+    2300034: Graveyard tree 3
+    2300036: Light Post
+    2300038: Mint
+    2300040: Monument
+    2300042: Path
+    2300044: Pumpkin
+    2300046: Pumpkin 2
+    2300048: Pumpkin 3
+    2300050: Pumpkin 3 Lid
+    2300052: Pumpkin 4
+    2300054: Pumpkin 4 Lid
+    2300056: Pumpkin 5
+    2300058: Tomb
+    2300060: Tomb Lid
+    2300062: Tomb Stone
+    2300064: Tomb Stone 2
+    2300066: Tomb Stone 3
+    2300068: Tomb Stone.001
+    2300070: Witch Hat
+    3300000: Bone
+    3300002: Bone 2
+    3300004: Broom
+    3300006: Candle 1
+    3300008: Candle 2
+    3300010: Candy 1
+    3300012: Candy 1.001
+    3300014: Coffin
+    3300016: Coffin Lid
+    3300018: Fence
+    3300020: Fence 2
+    3300022: Fence 3
+    3300024: Fence Post 1
+    3300026: Fence Post 2
+    3300028: Grave
+    3300030: Graveyard Tree 1
+    3300032: Graveyard Tree 2
+    3300034: Graveyard tree 3
+    3300036: Light Post
+    3300038: Mint
+    3300040: Monument
+    3300042: Path
+    3300044: Pumpkin
+    3300046: Pumpkin 2
+    3300048: Pumpkin 3
+    3300050: Pumpkin 3 Lid
+    3300052: Pumpkin 4
+    3300054: Pumpkin 4 Lid
+    3300056: Pumpkin 5
+    3300058: Tomb
+    3300060: Tomb Lid
+    3300062: Tomb Stone
+    3300064: Tomb Stone 2
+    3300066: Tomb Stone 3
+    3300068: Tomb Stone.001
+    3300070: Witch Hat
+    4300000: Graveyard tree 3
+    4300002: Fence 3
+    4300004: Path
+    4300006: Graveyard Tree 2
+    4300008: Graveyard Tree 1
+    4300010: Light Post
+    4300012: Fence Post 2
+    4300014: Fence Post 1
+    4300016: Fence 2
+    4300018: Fence
+    4300020: Grave
+    4300022: Witch Hat
+    4300024: Broom
+    4300026: Mint
+    4300028: Tomb Lid
+    4300030: Tomb
+    4300032: Pumpkin 5
+    4300034: Coffin Lid
+    4300036: Coffin
+    4300038: Monument
+    4300040: Tomb Stone 3
+    4300042: Tomb Stone 2
+    4300044: Pumpkin 4
+    4300046: Pumpkin 4 Lid
+    4300048: Tomb Stone.001
+    4300050: Bone 2
+    4300052: Bone
+    4300054: Candy 1.001
+    4300056: Candy 1
+    4300058: Pumpkin 3 Lid
+    4300060: Pumpkin 3
+    4300062: Candle 2
+    4300064: Candle 1
+    4300066: Pumpkin 2
+    4300068: Tomb Stone
+    4300070: Pumpkin
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
