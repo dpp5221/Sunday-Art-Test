@@ -3,7 +3,6 @@ using UnityEngine;
 public class gameFlow : MonoBehaviour
 {
     public Transform[] Tiles;
-    public int[] Poop;
     private Vector3 nextTileSpawn;
     public Transform Pumpkin;
     private Vector3 nextPumpkinSpawn;
@@ -28,6 +27,7 @@ public class gameFlow : MonoBehaviour
 
     IEnumerator spawnTile()
     {
+
         yield return new WaitForSeconds(1);
         randX = Random.Range(-1, 2);
         nextPumpkinSpawn = nextTileSpawn;
@@ -42,6 +42,8 @@ public class gameFlow : MonoBehaviour
         nextGraveSpawn.x = randX;
         Instantiate(tile, nextTileSpawn, tile.rotation);
         Instantiate(Grave, nextGraveSpawn, Grave.rotation);
+
+
         if (randX == 0)
         {
             randX = 1;
@@ -75,7 +77,9 @@ public class gameFlow : MonoBehaviour
             nextCoffinSpawn.x = randX;
             Instantiate(Candy, nextCoffinSpawn, Coffin.rotation);
         }
+
         nextTileSpawn.z += 3;
         StartCoroutine(spawnTile());
+
     }
 }
